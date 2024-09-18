@@ -71,7 +71,7 @@ To try this project for yourself in **Jupyter Notebook**, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SupremeEvilGod/iris-classification.git
+   git clone https://github.com/SupremeEvilGod/ML2-IRIS-DATASET.git
    cd iris-classification
    ```
 
